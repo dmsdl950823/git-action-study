@@ -1,3 +1,3 @@
 # git-action-study
 
-Test Readme (dev 브랜치 직접 푸쉬 테스트)
+Test Readme (Dev 브랜치 푸쉬 테스트)
